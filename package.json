@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:1": "jest --testPathPattern=part4/problem1",
-    "test:2": "jest --testPathPattern=part4/problem2",
-    "test:3": "jest --testPathPattern=part4/problem3",
-    "test:4": "jest --testPathPattern=part4/problem4",
-    "test:5": "jest --testPathPattern=part4/problem5"
+    "test1": "jest --testPathPattern=problem1",
+    "test2": "jest --testPathPattern=problem2",
+    "test3": "jest --testPathPattern=problem3",
+    "test4": "jest --testPathPattern=problem4",
+    "test5": "jest --testPathPattern=problem5"
   },
   "keywords": [],
   "author": "",
