@@ -1,0 +1,19 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:1": "jest --testPathPattern=part4/problem1",
+    "test:2": "jest --testPathPattern=part4/problem2",
+    "test:3": "jest --testPathPattern=part4/problem3",
+    "test:4": "jest --testPathPattern=part4/problem4",
+    "test:5": "jest --testPathPattern=part4/problem5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
