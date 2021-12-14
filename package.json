@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test1": "jest --testPathPattern=problem1",
-    "test2": "jest --testPathPattern=problem2",
-    "test3": "jest --testPathPattern=problem3",
-    "test4": "jest --testPathPattern=problem4",
-    "test5": "jest --testPathPattern=problem5"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
